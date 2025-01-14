@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064421449046",
+    "project_id": "plantidentifypbl4",
+    "storage_bucket": "plantidentifypbl4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064421449046:android:222288cdb892812eea4af7",
+        "android_client_info": {
+          "package_name": "com.example.plant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjyvHG-b25VODY4l1gZK97Nc2tx4kjTO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
